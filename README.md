@@ -1,2 +1,2 @@
-# Typescript
+# Type
 Bora aprender esse superset!
